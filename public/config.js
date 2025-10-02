@@ -23,7 +23,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
   "VITE_TWITTER_URL": "",
-  "VITE_SEO_SITE_NAME": "$4 on BSC",
+  "VITE_SEO_SITE_NAME": "4 on BSC",
   "VITE_SEO_SITE_DESCRIPTION": "",
   "VITE_SEO_SITE_URL": "https://dex.orderly.network/4-on-bsc-1905/",
   "VITE_SEO_SITE_LANGUAGE": "en",
